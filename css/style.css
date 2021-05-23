@@ -1,0 +1,81 @@
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.nav {
+    background-color: black;
+}
+
+.nav-btn {
+    color: white;
+    font-size: 12px;
+    margin: 5px 0px;
+    font-weight: bold;
+    outline: white;
+}
+
+.nav-btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.nav-btn:focus {
+    background-color: white;
+    color: black;
+    outline: none;
+}
+
+.info-body {
+    border: 2px solid black;
+    border-bottom: none;
+    border-top: none;
+}
+
+.continueReading {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 0%;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.info-body img {
+    object-fit: contain;
+    padding: 0px;
+    border: none;
+    border-radius: 0%;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.section-card {
+    letter-spacing: 0.2rem;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+
+.titlecard {
+    letter-spacing: 0.1rem;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+
+.date-card {
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+}
+
+.abstract-card {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+}
